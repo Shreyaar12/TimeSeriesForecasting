@@ -65,5 +65,4 @@ This project utilizes data provided by the Central Pollution Control Board (CPCB
 ## Contact
 For questions or feedback regarding this project, please contact shreyarajpal6@gmail.com or drop a message at https://www.projectsbyshr.in/
 
-Based on the provided code snippets and project description, here's a comprehensive README for your GitHub repository. This README is structured to give an overview of your project, its setup, usage instructions, and an acknowledgment section. Please feel free to customize it according to your preferences and additional details you might want to include.
 
